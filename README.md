@@ -36,10 +36,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bintangp02" />
-</p>
-
-<p align="center">
   <a href="NAMA YT LU ANJAS"><img src="https://img.shields.io/badge/YouTube-BINTANGP-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=NAMA YT LU ANJAS" /></a>
   <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
  </p>
