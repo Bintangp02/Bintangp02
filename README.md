@@ -21,7 +21,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
   <img src="https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code" />
   <img src="https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=sqlite" />
+  <img src="https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=BiasaLah🗿" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/FDLBOT"><img src="https://github-readme-stats.vercel.app/api?username=Bintangp02&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
@@ -34,11 +36,6 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bintangp02&theme=onedark" /></a>
 </p>
-
-<p align="center">
-  <a href="NAMA YT LU ANJAS"><img src="https://img.shields.io/badge/YouTube-BINTANGP-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=NAMA YT LU ANJAS" /></a>
-  <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
- </p>
 
 * <a href="https://wa.me/6289647417373"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
