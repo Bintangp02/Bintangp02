@@ -44,8 +44,6 @@ You can click the Preview link to take a look at your changes.
   <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
  </p>
 
-* [`Youtube Admin`](https://wa.me/+6289647417373)
-* [`Instagram Admin`](https://wa.me/+6289647417373)
-* [`WhatsApp Admin `](https://wa.me/+6289647417373)
-* [`WhatsApp Bot `](https://wa.me/+62896474173739)
-* [`Group WhatsApp `](https://chat.whatsapp.com/J6MmZQXDMQhLCMka2t5vdc)
+* <a href="https://wa.me/6289647417373"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+* <a href="https://wa.me/6289647417373"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
