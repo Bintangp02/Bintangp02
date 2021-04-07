@@ -41,8 +41,8 @@
   <img src="https://komarev.com/ghpvc/?username=AkiRaID&label=VIEWS&style=flat-square&color=orange" />
 </p>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="700" />
-7
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="900" />
+
 
 <!--START_SECTION:waka-->
 
