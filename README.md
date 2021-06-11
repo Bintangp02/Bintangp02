@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkiRaID&label=VIEWS&style=flat-square&color=orange" />
+  <img src="https://komarev.com/ghpvc/?username=Bintangp02&label=VIEWS&style=flat-square&color=orange" />
 </p>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="900" />
