@@ -20,14 +20,14 @@ ___
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mhankbarbar&repo=termux-wabot&theme=buefy)](https://github.com/mhankbarbar/termux-wabot)
 ![](https://github-profile-trophy.vercel.app/?username=MhankBarBar&row=2&column=3)
 
-//### :zap: Recent Activity
+\\### :zap: Recent Activity
 
-//<!--START_SECTION:activity-->
-//1. ❗️ Closed issue [#233](https://github.com/MhankBarBar/whatsapp-bot/issues/233) in [MhankBarBar/whatsapp-bot](https://github.com/MhankBarBar/whatsapp-bot)
-//2. 🗣 Commented on [#233](https://github.com/MhankBarBar/whatsapp-bot/issues/233) in [MhankBarBar/whatsapp-bot](https://github.com/MhankBarBar/whatsapp-bot)
-//3. ❗️ Closed issue [#222](https://github.com/MhankBarBar/whatsapp-bot/issues/222) in [MhankBarBar/whatsapp-bot](https://github.com/MhankBarBar/whatsapp-bot)
-//4. ❗️ Closed issue [#1](https://github.com/aidilaryanto/aidilaryanto/issues/1) in [aidilaryanto/aidilaryanto](https://github.com/aidilaryanto/aidilaryanto)
-//5. ❗️ Opened issue [#1](https://github.com/aidilaryanto/aidilaryanto/issues/1) in [aidilaryanto/aidilaryanto](https://github.com/aidilaryanto/aidilaryanto)
-//<!--END_SECTION:activity-->
+\\<!--START_SECTION:activity-->
+\\1. ❗️ Closed issue [#233](https://github.com/MhankBarBar/whatsapp-bot/issues/233) in [MhankBarBar/whatsapp-bot](https://github.com/MhankBarBar/whatsapp-bot)
+\\2. 🗣 Commented on [#233](https://github.com/MhankBarBar/whatsapp-bot/issues/233) in [MhankBarBar/whatsapp-bot](https://github.com/MhankBarBar/whatsapp-bot)
+\\3. ❗️ Closed issue [#222](https://github.com/MhankBarBar/whatsapp-bot/issues/222) in [MhankBarBar/whatsapp-bot](https://github.com/MhankBarBar/whatsapp-bot)
+\\4. ❗️ Closed issue [#1](https://github.com/aidilaryanto/aidilaryanto/issues/1) in [aidilaryanto/aidilaryanto](https://github.com/aidilaryanto/aidilaryanto)
+\\5. ❗️ Opened issue [#1](https://github.com/aidilaryanto/aidilaryanto/issues/1) in [aidilaryanto/aidilaryanto](https://github.com/aidilaryanto/aidilaryanto)
+\\<!--END_SECTION:activity-->
 
 ---
