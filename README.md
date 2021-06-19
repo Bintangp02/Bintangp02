@@ -23,7 +23,7 @@ ___
 ### : INFO UPDATE BOT!
 
 <!--INFO UPDATE BOT!-->
->[Bot Whatsapp 🆕](https://github.com/Bintangp02/whatsapp-bot
+>[Bot Whatsapp 🆕](https://github.com/Bintangp02/whatsapp-bot)
 <!--INFO UPDATE BOT!-->
 
 ---
