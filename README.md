@@ -17,7 +17,7 @@ ___
 ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bintangp02&theme=buefy)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bintangp02&repo=Bintangp02&theme=buefy)](https://github.com/Bintangp02/termux-wabot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bintangp02&repo=Bintangp02&theme=buefy)](https://github.com/Bintangp02/bot-whatsapp)
 ![](https://github-profile-trophy.vercel.app/?username=Bintangp02&row=2&column=3)
 
 ### : INFO UPDATE BOT!
