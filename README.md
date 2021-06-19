@@ -19,17 +19,6 @@
 "></a>
 </p>
 
-### 📉 Stats
-
-![Akira Github Statistic](https://github-readme-stats.vercel.app/api?username=Bintangp02&show_icons=true&theme=highcontrast&show_owner=true)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Bintangp02&layout=compact&theme=highcontrast)
-
-### 💻 Bot Wa
-
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bintangp02&repo=Termux-Bot&theme=highcontrast)](https://github.com/Bintangp02/Bintangp02)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bintangp02&repo=Termux-Bot&theme=highcontrast)](https://github.com/Bintangp02/Bintangp02)
-
 ### 🏆 Trophy
 
 ![](https://github-profile-trophy.vercel.app/?username=Bintangp02&row=2&column=3&layout=compact&theme=onedark)
