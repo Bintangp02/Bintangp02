@@ -16,18 +16,13 @@ ___
 ![Bintangp02 github stats](https://github-readme-stats.vercel.app/api?username=Bintangp02&show_icons=true&theme=buefy&show_owner=true)
 ___
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhankbarbar&theme=buefy)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mhankbarbar&repo=termux-wabot&theme=buefy)](https://github.com/mhankbarbar/termux-wabot)
-![](https://github-profile-trophy.vercel.app/?username=MhankBarBar&row=2&column=3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bintangp02&theme=buefy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bintangp02&repo=Bintangp02&theme=buefy)](https://github.com/Bintangp02/termux-wabot)
+![](https://github-profile-trophy.vercel.app/?username=Bintangp02&row=2&column=3)
 
-\\### :zap: Recent Activity
+### : INFO UPDATE BOT!
 
-\\<!--START_SECTION:activity-->
-\\1. ❗️ Closed issue [#233](https://github.com/MhankBarBar/whatsapp-bot/issues/233) in [MhankBarBar/whatsapp-bot](https://github.com/MhankBarBar/whatsapp-bot)
-\\2. 🗣 Commented on [#233](https://github.com/MhankBarBar/whatsapp-bot/issues/233) in [MhankBarBar/whatsapp-bot](https://github.com/MhankBarBar/whatsapp-bot)
-\\3. ❗️ Closed issue [#222](https://github.com/MhankBarBar/whatsapp-bot/issues/222) in [MhankBarBar/whatsapp-bot](https://github.com/MhankBarBar/whatsapp-bot)
-\\4. ❗️ Closed issue [#1](https://github.com/aidilaryanto/aidilaryanto/issues/1) in [aidilaryanto/aidilaryanto](https://github.com/aidilaryanto/aidilaryanto)
-\\5. ❗️ Opened issue [#1](https://github.com/aidilaryanto/aidilaryanto/issues/1) in [aidilaryanto/aidilaryanto](https://github.com/aidilaryanto/aidilaryanto)
-\\<!--END_SECTION:activity-->
+<!--INFO UPDATE BOT!-->
+<!--INFO UPDATE BOT!-->
 
 ---
