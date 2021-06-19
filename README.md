@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 ## Yahooo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Bintangp02
-<img align="center" height="auto" src="https://github.com/Bintangp02/Bintangp02/blob/main/img/5.jpg"/>
+<img align="center" height="auto" src="https://github.com/Bintangp02/bot-whatsapp/tree/main/img"/>
 
 ___
 
