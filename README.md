@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 ## Hello IM Bintang <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://www.gambaranimasi.org/data/media/1904/animasi-bergerak-smiley-kacamata-hitam-0109.gif" width="23px"> 
-<img align="center" height="auto" src="https://i.ibb.co/FJm5p9P/images.jpg"/>
+<img align="center" height="auto" src="https://ibb.co/pX8HWjs/images.jpg"/>
 
 <p align="center">
 📫 Follow Me On
