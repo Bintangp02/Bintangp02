@@ -25,5 +25,4 @@ ___
 <!--INFO UPDATE BOT!-->
 >[Bot Whatsapp 🆕](https://github.com/Bintangp02/whatsapp-bot)
 <!--INFO UPDATE BOT!-->
-
----
+[trimakasih kepada unx21](https://github.com/unx21) karna telah membantu beberpa di github ini, sekali lagi trimakasih.
